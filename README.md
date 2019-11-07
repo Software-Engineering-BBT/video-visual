@@ -1033,3 +1033,14 @@ function showSlides(n) {
 </html> 
 
 <html>
+  
+  
+  
+  css view
+  h1{
+	color:red;
+	text-align:center;
+}
+video{
+	text-align:center
+}
